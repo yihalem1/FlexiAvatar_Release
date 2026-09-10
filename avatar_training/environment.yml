@@ -1,0 +1,35 @@
+name: flexiavatar_avatar
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8.20
+  - pip
+  - pip:
+      - numpy==1.23.1
+      - scipy==1.10.1
+      - scikit-image==0.21.0
+      - matplotlib==3.7.5
+      - networkx==3.0
+      - einops==0.8.1
+      - tqdm==4.67.1
+
+      - smplx==0.1.28
+      - chumpy==0.71
+
+      - trimesh==3.23.5
+      - pyrender==0.1.45
+      - plyfile==1.0.3
+      - open3d==0.19.0
+      - opencv-python==4.11.0.86
+      - imageio==2.35.1
+      - pillow==10.4.0
+
+      - lpips==0.1.4
+      - torchmetrics==1.5.2
+
+      - ninja==1.13.0
+      - packaging==24.2
+      - pyyaml==6.0.2
+      - gdown==5.2.0
