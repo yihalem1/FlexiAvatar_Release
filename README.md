@@ -8,16 +8,6 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/teaser.png" width="100%">
-</p>
-
-<p align="center">
-<em>From monocular video under arbitrary body visibility, FlexiAvatar reconstructs animatable 3D
-Gaussian avatars within a single pipeline, outperforming state-of-the-art full-body, upper-body,
-and head-only methods.</em>
-</p>
-
 ---
 
 ## Getting started
